@@ -1,5 +1,5 @@
 # puntpartner
-language translation web app
+**language translation web app**
 **Key Features:**
 	1.	Text Translation:
 	•	Translate text from a source language to a target language.
